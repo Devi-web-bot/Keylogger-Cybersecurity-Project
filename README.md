@@ -1,6 +1,5 @@
 # Keylogger-Cybersecurity-Project
 Python keylogger project for cybersecurity learning
-# Keylogger Project (Cybersecurity)
 
 ## Description
 This project demonstrates a Python-based keylogger using Tkinter and pynput.
